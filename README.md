@@ -9,8 +9,7 @@ support.<br />
 - Windows 11
 <h2>Print Queue Management</h2>
 <p>
-<img width="1345" height="370" alt="image"
-src="https://github.com/user-attachments/assets/d57ca952-e555-4ba6-9f79-1f20ba428004" />
+<img width="959" height="557" alt="Print Queue Management" src="https://github.com/user-attachments/assets/8805c0cc-3468-40b7-a5bb-a53505fc3dd1" />
 </p>
 <p>
 Add my own home printer to bluetooth and devices.
